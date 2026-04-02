@@ -1,0 +1,46 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="24" fill="#0F172A"/>
+  <text x="60" y="82" fill="#F8FAFC" font-size="38" font-family="Arial, Helvetica, sans-serif" font-weight="700">Obsidian Engram Playbook</text>
+  <text x="60" y="122" fill="#94A3B8" font-size="22" font-family="Arial, Helvetica, sans-serif">Default-on base layer + evidence-first governance + durable memory</text>
+
+  <rect x="60" y="180" width="300" height="130" rx="20" fill="#1E293B" stroke="#38BDF8" stroke-width="2"/>
+  <text x="90" y="225" fill="#E2E8F0" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="700">User Request</text>
+  <text x="90" y="265" fill="#CBD5E1" font-size="20" font-family="Arial, Helvetica, sans-serif">Natural language task:</text>
+  <text x="90" y="293" fill="#CBD5E1" font-size="20" font-family="Arial, Helvetica, sans-serif">write / review / clip / summarize</text>
+
+  <rect x="450" y="160" width="690" height="180" rx="24" fill="#111827" stroke="#60A5FA" stroke-width="2"/>
+  <text x="485" y="205" fill="#F8FAFC" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="700">Default-on Obsidian Base Layer</text>
+  <rect x="485" y="230" width="145" height="70" rx="14" fill="#1D4ED8"/>
+  <text x="512" y="273" fill="#EFF6FF" font-size="20" font-family="Arial, Helvetica, sans-serif">Markdown</text>
+  <rect x="648" y="230" width="170" height="70" rx="14" fill="#2563EB"/>
+  <text x="673" y="273" fill="#EFF6FF" font-size="20" font-family="Arial, Helvetica, sans-serif">Frontmatter</text>
+  <rect x="836" y="230" width="120" height="70" rx="14" fill="#3B82F6"/>
+  <text x="872" y="273" fill="#EFF6FF" font-size="20" font-family="Arial, Helvetica, sans-serif">Bases</text>
+  <rect x="974" y="230" width="136" height="70" rx="14" fill="#60A5FA"/>
+  <text x="1009" y="273" fill="#0F172A" font-size="20" font-family="Arial, Helvetica, sans-serif">Canvas / CLI</text>
+
+  <rect x="60" y="410" width="500" height="270" rx="24" fill="#111827" stroke="#34D399" stroke-width="2"/>
+  <text x="95" y="455" fill="#F8FAFC" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="700">Governance Layer</text>
+  <text x="95" y="500" fill="#D1FAE5" font-size="22" font-family="Arial, Helvetica, sans-serif">• Daily journal as the default sink</text>
+  <text x="95" y="538" fill="#D1FAE5" font-size="22" font-family="Arial, Helvetica, sans-serif">• Weekly / monthly evidence-first synthesis</text>
+  <text x="95" y="576" fill="#D1FAE5" font-size="22" font-family="Arial, Helvetica, sans-serif">• Minimal file proliferation</text>
+  <text x="95" y="614" fill="#D1FAE5" font-size="22" font-family="Arial, Helvetica, sans-serif">• Compact, agent-friendly note structures</text>
+
+  <rect x="640" y="410" width="500" height="270" rx="24" fill="#111827" stroke="#F59E0B" stroke-width="2"/>
+  <text x="675" y="455" fill="#F8FAFC" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="700">Memory Layer</text>
+  <text x="675" y="500" fill="#FDE68A" font-size="22" font-family="Arial, Helvetica, sans-serif">• Patterns / anti-patterns / rules</text>
+  <text x="675" y="538" fill="#FDE68A" font-size="22" font-family="Arial, Helvetica, sans-serif">• Handoffs and architecture decisions</text>
+  <text x="675" y="576" fill="#FDE68A" font-size="22" font-family="Arial, Helvetica, sans-serif">• Durable memory outside chat context</text>
+  <text x="675" y="614" fill="#FDE68A" font-size="22" font-family="Arial, Helvetica, sans-serif">• Engram as reusable compressed knowledge</text>
+
+  <path d="M360 245H430" stroke="#93C5FD" stroke-width="8" stroke-linecap="round"/>
+  <path d="M420 230L450 245L420 260" fill="none" stroke="#93C5FD" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M560 340V385" stroke="#6EE7B7" stroke-width="8" stroke-linecap="round"/>
+  <path d="M545 375L560 405L575 375" fill="none" stroke="#6EE7B7" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M870 340V385" stroke="#FBBF24" stroke-width="8" stroke-linecap="round"/>
+  <path d="M855 375L870 405L885 375" fill="none" stroke="#FBBF24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="78" y="724" fill="#64748B" font-size="18" font-family="Arial, Helvetica, sans-serif">Public-safe framing: publish the framework, not the life data.</text>
+</svg>

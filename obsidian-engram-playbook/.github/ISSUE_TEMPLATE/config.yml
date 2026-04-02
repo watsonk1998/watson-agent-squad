@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Publishing boundary
+    url: https://github.com/watsonk1998/obsidian-engram-playbook/blob/main/docs/publishing-boundary.md
+    about: Read this first if your question touches privacy, sharing limits, or what should remain private.
+  - name: Sanitization checklist
+    url: https://github.com/watsonk1998/obsidian-engram-playbook/blob/main/docs/sanitization-checklist.md
+    about: Review this before posting examples, screenshots, or snippets from a real vault.

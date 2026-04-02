@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.hasTag("weekly-report")
+properties:
+  file.name:
+    displayName: Note
+  updated:
+    displayName: Updated
+  report_type:
+    displayName: Type
+views:
+  - type: table
+    name: Weekly Reports
+    order:
+      - file.name
+      - updated
+      - report_type
